@@ -1,7 +1,12 @@
-![FrontEnd Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-1/514364891_1176990644201093_8921070036640908113_n.jpg?stp=c0.96.1638.1638a_dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=1d2534&_nc_ohc=ZVEV7VNqcC8Q7kNvwHO3qMW&_nc_oc=AdmTMJiKbZy-lnX_n3xo3zwyAH6GghSCNCVwfwAPEMX8MwuJW7ydV6weag7hwD0dlTM&_nc_zt=24&_nc_ht=scontent.fdac41-1.fna&_nc_gid=G_5Qp2-WsgiKwhsbS9z4sw&oh=00_AfVQu6ySrjq1WsaBPOGq7Jkq21bh45K9JegXb_LBnIEl-w&oe=68B62879)
 
-### Hi there 👋, I'm Sharif Ahamed
-#### FrontEnd Developer
+<h1 align="center">Hi 👋, I'm Sharif Ahamed</h1>
+<h3 align="center">Frontend developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-sharifahamed&label=Profile%20views&color=0e75b6&style=flat" alt="sh-sharifahamed" /> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **sharif845g7@gmail.com**
 
 💻I'm FrontEnd Developer | Web Site & Web App Enthusiast | 
 
@@ -37,4 +42,19 @@ Skills: HTML | CSS | JS | React.js | Express.js | Node.js | MongoDB |
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/SH-SharifAhamed)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/SH-SharifAhamed)  
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shorif-ahamed-951b862a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shorif-ahamed-951b862a0/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-sharifahamed&show_icons=true&locale=en&layout=compact" alt="sh-sharifahamed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-sharifahamed&show_icons=true&locale=en" alt="sh-sharifahamed" /></p>
+
 
