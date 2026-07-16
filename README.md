@@ -1,13 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Sharif Ahamed</h1>
-<h3 align="center">Frontend developer from Bangladesh</h3>
+<h3 align="center">MERN Stack developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-sharifahamed&label=Profile%20views&color=0e75b6&style=flat" alt="sh-sharifahamed" /> </p>
 
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-04-18 at 7 55 32 AM" src="https://github.com/user-attachments/assets/035fca26-86ff-4c4a-a339-9f1b9dfe5e48" />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React, Next.Js**
+<h3> - 🌱 I’m From Bangladesh</h3>
 
 - 📫 How to reach me **sharif845g7@gmail.com**
 
