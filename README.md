@@ -8,6 +8,8 @@
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-04-18 at 7 55 32 AM" src="https://github.com/user-attachments/assets/035fca26-86ff-4c4a-a339-9f1b9dfe5e48" />
 
+<h3>I'm a Computer Science & Technology student passionate about web development. I enjoy turning ideas into responsive, user-friendly web applications using JavaScript, React, Next.js, and Tailwind CSS. I'm currently focused on improving my frontend skills while exploring full-stack development and building real-world projects.</h3>
+
 - 🌱 I’m currently learning **MERN Stack**
 - 🌱 I’m currently learning **React, Next.Js**
 <h3> - 🌱 I’m From Bangladesh</h3>
