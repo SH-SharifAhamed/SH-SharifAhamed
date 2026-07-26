@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-sharifahamed&label=Profile%20views&color=0e75b6&style=flat" alt="sh-sharifahamed" /> </p>
 
-
-<img width="1600" height="900" alt="WhatsApp Image 2026-04-18 at 7 55 32 AM" src="https://github.com/user-attachments/assets/035fca26-86ff-4c4a-a339-9f1b9dfe5e48" />
+<img width="1200" height="480" alt="Blue Modern Technology Game Streaming Twitch Banner" src="https://github.com/user-attachments/assets/02b70d21-3c57-4805-b02d-08f64030197e" />
 
 <h3>I'm a Computer Science & Technology student passionate about web development. I enjoy turning ideas into responsive, user-friendly web applications using JavaScript, React, Next.js, and Tailwind CSS. I'm currently focused on improving my frontend skills while exploring full-stack development and building real-world projects.</h3>
 
